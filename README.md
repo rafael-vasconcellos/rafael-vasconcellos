@@ -1,13 +1,19 @@
-# Sobre Rafael
-Formado em Análise e Desenvolvimento de Sistemas pela Unigranrio em 2023/2
+# Hey, I'm Rafael
+Graduated in Analysis and Development of Systems at Unigranrio in 2023/2
 
-🇧🇷 PT-BR Nativo  
-🇺🇸 EN Intermediário
++ [Portfolio WIP](https://rafael-vasconcellos.github.io/)  
++ constantly upgrading my development skills  
++ looking forward to create cool, funny, useful and meaningful apps and tools  
++ [my LinkedIn](https://www.linkedin.com/in/rafael-vasconcelos-1b4298311/)
+
+🇧🇷 PT-BR Native language  
+🇺🇸 EN Intermediary
 
 <div style="padding-top: 18px">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vasconcellos&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+### Languages and Tools:
 <div style="display: flex; gap: 4px; align-items: center; padding: 4px 0">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,3 +25,16 @@ Formado em Análise e Desenvolvimento de Sistemas pela Unigranrio em 2023/2
   <img align="center" alt="Typescript" height="50" width="30" style="padding: 0 4px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
 </div>
 <br>
+
+
+# Olá, me chamo Rafael
+
+Formado em Análise e Desenvolvimento de Sistemas pela Unigranrio em 2023/2
+
++ [Portfolio WIP](https://rafael-vasconcellos.github.io/)  
++ constantemente evoluindo meu leque e minhas habilidades de desenvolvimento  
++ ansioso para criar aplicativos e ferramentas legais, divertidos, úteis e significativos  
++ [meu LinkedIn](https://www.linkedin.com/in/rafael-vasconcelos-1b4298311/)
+
+🇧🇷 PT-BR Nativo  
+🇺🇸 EN Intermediário
