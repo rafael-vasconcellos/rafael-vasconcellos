@@ -1,17 +1,13 @@
 # Hey, I'm Rafael
 Graduated in Analysis and Development of Systems at Unigranrio in 2023/2
 
++ Constantly upgrading my development skills  
++ Looking forward to create cool, funny, useful and meaningful apps and tools  
++ [My LinkedIn](https://www.linkedin.com/in/rafael-vasconcelos-1b4298311/)  
 + [Portfolio WIP](https://rafael-vasconcellos.github.io/)  
-+ constantly upgrading my development skills  
-+ looking forward to create cool, funny, useful and meaningful apps and tools  
-+ [my LinkedIn](https://www.linkedin.com/in/rafael-vasconcelos-1b4298311/)
 
 🇧🇷 PT-BR Native language  
 🇺🇸 EN Intermediary
-
-<div style="padding-top: 18px">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vasconcellos&layout=compact&langs_count=16&theme=dark" />
-</div>
 
 ### Languages and Tools:
 <div style="display: flex; gap: 6px; align-items: center; padding: 4px 0px">
@@ -25,6 +21,10 @@ Graduated in Analysis and Development of Systems at Unigranrio in 2023/2
   <img align="center" alt="Astro" title="Astro" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/astro/astro-original.svg" />
   <img align="center" alt="Figma" title="Figma" height="50" width="30" style="padding: 0 4px" src="icons/figma.svg" />
 </div>
+
+<div style="padding-top: 18px">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vasconcellos&layout=compact&langs_count=16&theme=dark" />
+</div>
 <br>
 
 
@@ -32,10 +32,10 @@ Graduated in Analysis and Development of Systems at Unigranrio in 2023/2
 
 Formado em Análise e Desenvolvimento de Sistemas pela Unigranrio em 2023/2
 
-+ [Portfolio WIP](https://rafael-vasconcellos.github.io/)  
-+ constantemente evoluindo meu leque e minhas habilidades de desenvolvimento  
-+ ansioso para criar aplicativos e ferramentas legais, divertidos, úteis e significativos  
++ Constantemente evoluindo minhas capacidades e expandindo meu leque de habilidades de desenvolvimento  
++ Ansioso para criar aplicações e ferramentas interessantes, legais, úteis e significativas  
 + [meu LinkedIn](https://www.linkedin.com/in/rafael-vasconcelos-1b4298311/)
++ [Portfolio WIP](https://rafael-vasconcellos.github.io/)  
 
 🇧🇷 PT-BR Nativo  
 🇺🇸 EN Intermediário
