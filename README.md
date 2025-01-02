@@ -39,3 +39,6 @@ Formado em Análise e Desenvolvimento de Sistemas pela Unigranrio em 2023/2
 
 🇧🇷 PT-BR Nativo  
 🇺🇸 EN Intermediário
+
+### to study
+- introdução prática à ciência de dados
