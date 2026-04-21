@@ -20,6 +20,7 @@ Graduated in Analysis and Development of Systems at Unigranrio in 2023/2
   <img align="center" alt="SolidJS" title="SolidJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidjs/solidjs-original.svg" />
   <img align="center" alt="Astro" title="Astro" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/astro/astro-original.svg" />
   <img align="center" alt="Figma" title="Figma" height="50" width="30" style="padding: 0 4px" src="icons/figma.svg" />
+  <img align="center" alt="Stitch" title="Google Stitch" height="50" width="30" style="padding: 0 4px" src="icons/stitch.png" />
 </div>
 
 <div style="padding-top: 18px">
